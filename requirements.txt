@@ -1,0 +1,4 @@
+pydantic
+PyYAML
+superagi-tools
+instagrapi 
